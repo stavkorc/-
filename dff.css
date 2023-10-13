@@ -52,3 +52,12 @@ ul li a:hover {
 	width: 300px;
 	text-align:center;
 }
+
+#no {
+	background-color:white;
+	color:#ff0000;
+	border:3px solid #59534F;
+	box-shadow:10px 10px 7px #000000;
+	width: 250px;
+	text-align:center;
+}
