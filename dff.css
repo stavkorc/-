@@ -67,3 +67,16 @@ ul li a:hover {
 	box-shadow:10px 10px 7px #000000;
 	border-radius:100px;
 }
+
+#ani {
+	transform: scale(0.5);
+	transition:5s all;
+
+	opacity:0.8;
+	border:7px solid #59534F;
+	box-shadow:10px 10px 7px #000000;
+}
+#ani:hover{
+	transform: rotate(180deg) scale(0.5);
+	
+}
