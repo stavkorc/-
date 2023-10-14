@@ -61,3 +61,9 @@ ul li a:hover {
 	width: 250px;
 	text-align:center;
 }
+
+#vide {
+	border:7px solid #59534F;
+	box-shadow:10px 10px 7px #000000;
+	border-radius:100px;
+}
